@@ -1,9 +1,14 @@
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
+**/.DS_Store
 **/.ipynb_checkpoints
 *.py[cod]
 *$py.class
+.DS_Store
 
+**/*_solution
+**/2_tabular_classification.ipynb
+**/3_tabular_regression.ipynb
 # C extensions
 *.so
 
